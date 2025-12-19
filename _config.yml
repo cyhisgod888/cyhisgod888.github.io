@@ -1,0 +1,12 @@
+title: "My Blog"
+description: "Personal blog built with Minimal Mistakes theme."
+baseurl: ""
+url: "https://cyhisgod.top"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Show excerpts on the home page
+show_excerpts: true
